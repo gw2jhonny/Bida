@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bida/routes"
+		},
+		{
+			"path": "../bida/storage"
+		},
+		{
+			"path": "../bida/tests"
+		},
+		{
+			"path": "../bida/vendor"
+		},
+		{
+			"path": "../bida/app"
+		},
+		{
+			"path": "../bida/bootstrap"
+		},
+		{
+			"path": "../bida/config"
+		},
+		{
+			"path": "../bida/css"
+		},
+		{
+			"path": "../bida/database"
+		},
+		{
+			"path": "../bida/public"
+		},
+		{
+			"path": "../bida/resources"
+		}
+	],
+	"settings": {}
+}
